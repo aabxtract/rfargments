@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "img1",
+      "description": "A neon sign in a rainy city.",
+      "imageUrl": "https://images.unsplash.com/photo-1534214526114-0ea4d47b04f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZW9uJTIwY2l0eXxlbnwwfHx8fDE3NjQxNjkwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "neon city"
+    },
+    {
+      "id": "img2",
+      "description": "A close-up of a crystalline structure.",
+      "imageUrl": "https://images.unsplash.com/photo-1760651691839-d089c1d9ff54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3J5c3RhbCUyMGFic3RyYWN0fGVufDB8fHx8MTc2NDI1NjQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crystal abstract"
+    },
+    {
+      "id": "img3",
+      "description": "A foggy forest at dawn.",
+      "imageUrl": "https://images.unsplash.com/photo-1486707471592-8e7eb7e36f78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb2dneSUyMGZvcmVzdHxlbnwwfHx8fDE3NjQyMjk5MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "foggy forest"
+    },
+    {
+      "id": "img4",
+      "description": "Abstract light trails in the dark.",
+      "imageUrl": "https://images.unsplash.com/photo-1581272851522-93125dfda576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsaWdodCUyMHRyYWlsc3xlbnwwfHx8fDE3NjQxNTI0MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "light trails"
+    },
+    {
+      "id": "img5",
+      "description": "A portrait with glitch effects.",
+      "imageUrl": "https://images.unsplash.com/photo-1624706477323-a31e11c3ea1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxnbGl0Y2glMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQyNTY0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glitch portrait"
+    },
+    {
+      "id": "img6",
+      "description": "Cosmic nebula.",
+      "imageUrl": "https://images.unsplash.com/photo-1711991996800-680364137d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29zbWljJTIwbmVidWxhfGVufDB8fHx8MTc2NDI1NjQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cosmic nebula"
+    },
+    {
+      "id": "img7",
+      "description": "Underwater coral reef.",
+      "imageUrl": "https://images.unsplash.com/photo-1582623838120-455da222cdc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb3JhbCUyMHJlZWZ8ZW58MHx8fHwxNzY0MjQwODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coral reef"
+    },
+    {
+      "id": "img8",
+      "description": "Futuristic cityscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1597006372162-848bbbe84b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmdXR1cmlzdGljJTIwY2l0eXNjYXBlfGVufDB8fHx8MTc2NDIzMjkxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic cityscape"
+    }
+  ]
 }
