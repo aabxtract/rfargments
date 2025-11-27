@@ -43,7 +43,7 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Logo />
           <div className="hidden md:block">
-            <GlitchText text="Reality Fragments" className="text-lg font-bold" />
+            <GlitchText text="Reality Fragments" className="text-lg font-bold font-headline" />
           </div>
         </Link>
 

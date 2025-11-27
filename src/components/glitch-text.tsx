@@ -12,7 +12,7 @@ const GlitchText = React.forwardRef<HTMLDivElement, GlitchTextProps>(
     return (
       <div
         ref={ref}
-        className={cn("relative", className)}
+        className={cn("relative font-headline", className)}
         {...props}
       >
         <span
